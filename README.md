@@ -3,9 +3,14 @@
 This repository presents a comparative study of traditional gravity inversion
 techniques and deep learning–based inversion using Convolutional Neural Networks (CNN).
 
-The objective is to quantitatively compare physics-based gravity inversion
-methods with data-driven deep learning approaches for subsurface density
-estimation.
+## Scope of Study
+- Forward gravity modelling using analytical (Harmonica) and numerical
+  integration methods
+- Validation of numerical integration against analytical solutions
+- Gravity inversion using Gauss–Newton least squares
+- Deep learning–based inversion using a CNN
+- Performance comparison in terms of accuracy and convergence
+
 
 ## Workflow
 1. Forward gravity modelling
